@@ -11,7 +11,7 @@ title:{
 
 description:{
     type: String,
-    default: "No descroption",
+    default: "No description",
 },
 
 

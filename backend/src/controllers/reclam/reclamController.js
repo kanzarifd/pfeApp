@@ -1,5 +1,6 @@
 import asyncHandler from "express-async-handler";
 import ReclamModel from "../../models/reclams/ReclamModel.js";
+
 export const createReclam = asyncHandler(async (req, res) => {
 
 try { 
