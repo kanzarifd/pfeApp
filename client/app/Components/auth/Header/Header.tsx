@@ -38,7 +38,7 @@ function Header() {
         </p>
         </div>
         <div className="h-[50px] flex items-center gap-[10.4rem]">
-            <button className="px-8 py-3 bg-[#3aafae] text-white rounded-[50px]
+           <button className="px-8 py-3 bg-[#3aafae] text-white rounded-[50px]
              hover:bg-[#b65325] hover:text-white transition-all duration-200 ease-in-out">
                 Create a new reclam
             </button>
